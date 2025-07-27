@@ -1,0 +1,1 @@
+console.log('eu estou programando as',10,'da manhã')
